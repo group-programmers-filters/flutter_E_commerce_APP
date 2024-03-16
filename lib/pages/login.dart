@@ -29,9 +29,12 @@ class Login extends StatelessWidget {
                       SizedBox(
                         height: 35,
                       ),
-                     
                       SizedBox(
                         height: 35,
+                      ),
+                       Image.asset(
+                        "assets/images/login.png",
+                        width: 288,
                       ),
                       Container(
                         decoration: BoxDecoration(
